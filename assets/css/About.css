@@ -116,7 +116,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-info {
 }
 
 a.nav-link {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 /* Top btn */
@@ -573,7 +573,7 @@ footer {
 
 @media only screen and (max-width: 1200px) {
     a.nav-link {
-        font-size: 17px;
+        font-size: 16px;
     }
     
     .nav-link {
@@ -607,7 +607,7 @@ footer {
 
     a.nav-link {
         margin: 5px 40px;
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
